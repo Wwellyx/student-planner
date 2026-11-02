@@ -9,7 +9,7 @@
 
 https://github.com/Wwellyx/student-planner
 
-### 3. 
+### 3. Выполненные операции
 
 1. Создана папка student-planner.
 2. Инициализирован локальный Git-репозиторий.
